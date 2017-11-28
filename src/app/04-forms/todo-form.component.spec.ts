@@ -1,15 +1,15 @@
 import { TodoFormComponent } from './todo-form.component'; 
 
-describe('TodoFormComponent', () => {
+xdescribe('TodoFormComponent', () => {
   var component: TodoFormComponent; 
 
   beforeEach(() => {
 
   });
 
-  it('', () => {
+  xit('', () => {
   });
 
-  it('', () => {
+  xit('', () => {
   });
 });

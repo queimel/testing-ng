@@ -1,12 +1,12 @@
 import { VoteComponent } from './vote.component'; 
 
-describe('VoteComponent', () => {
+xdescribe('VoteComponent', () => {
   var component: VoteComponent; 
 
   beforeEach(() => {
     component = new VoteComponent();
   });
 
-  it('', () => {
+  xit('', () => {
   });
 });
